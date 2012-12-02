@@ -13,3 +13,6 @@ mustafar
 mustafar coruscant dagobah
 5.5 60 150
 500 50
+coruscant
+5.5 45 250
+500 30
